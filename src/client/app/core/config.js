@@ -13,8 +13,8 @@
   }
 
   var config = {
-    appErrorPrefix: '[mobileapp Error] ',
-    appTitle: 'mobileapp'
+    appErrorPrefix: '[ShoppingFunnel Error] ',
+    appTitle: 'ShoppingFunnel'
   };
 
   core.value('config', config);
