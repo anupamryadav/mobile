@@ -7,7 +7,9 @@
         'app.admin',
         'app.Graph',
         'app.dashboard',
-        'app.layout'
+        'app.layout',
+        'app.Grid'
+
     ]);
 
 })();
